@@ -1,0 +1,28 @@
+body {
+    background-image: linear-gradient(yellow, red);
+    margin: 15px 25px 45px 25px;
+    font-family: "Indie Flower";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+iframe {
+    margin: 15px 30% 15px 30%;
+    border: 1px black solid;
+    outline: 2px red solid;
+}
+#pic1, #pic2, #pic3, #pic4 {
+    width: 40%;
+    height: auto;
+    margin: 15px 30% 15px 30%;
+    border: 1px black solid;
+    outline: 2px red solid;
+}
+footer {
+    text-align: center;
+    font-size: 1.5rem;
+}
